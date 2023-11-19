@@ -35,7 +35,7 @@ export default function RightSidebar() {
       <h1 className="border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
-          href="https://zenn.dev/aibiz20sasaki"
+          href="https://zenn.dev/indigo165e83"
           target="_blank" rel="noopener noreferrer"
         >
           Zennダッシュボード
@@ -52,15 +52,14 @@ export default function RightSidebar() {
           />
           <a
             className="text-2xl hover:text-indigo-300"
-            href="https://github.com/ai-biz20-sasaki?tab=repositories"
+            href="https://github.com/indigo165e83?tab=repositories"
             target="_blank" rel="noopener noreferrer"
           >
             Github
           </a>
         </div>       
-        <p>aibizsasakiのリポジトリ</p>
+        <p>Githubのリポジトリ</p>
         
-        {/*
         <div className="flex flex-row">
           <Image 
             src="/icons/twitter.svg"
@@ -71,15 +70,15 @@ export default function RightSidebar() {
           />
           <a
             className="text-2xl hover:text-indigo-300"
-            href="https://twitter.com/ai_biz20_sasak"
+            href="https://twitter.com/indigo165e833"
             target="_blank" rel="noopener noreferrer"
           >
-            twitter
+            X (twitter)
           </a>
         </div>
-        <p>twitter aibizsasaki</p>
-        */}
+        <p>X(twitter)でつぶやき。お気軽にフォローください。</p>
 
+        {/*
         <div className="flex flex-row">
           <Image 
             src="/icons/youtube.svg"
@@ -96,7 +95,9 @@ export default function RightSidebar() {
             YouTube
           </a>
         </div>
-        <p>youtube aibizsasaki</p>
+        <p>youtubeの動画</p>
+        */}
+
       </h1>
 
     </div>    
