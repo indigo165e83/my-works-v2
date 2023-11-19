@@ -1,11 +1,11 @@
 export default function LeftSidebar() {
   return (
     <div className="flex flex-col">
-      <h1 className="text-2xl text-center bg-indigo-600 text-white p-2">
+      <h1 className="text-2xl text-center bg-[#165e83] text-white p-2">
         作品一覧
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://ui-parts.0gravity0.com/"
@@ -17,7 +17,7 @@ export default function LeftSidebar() {
         <p>HTML/CSS/JavaScript(Vanilla JS)/Xserver</p>
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://0gravity0.com/xs-wp-company02/"
@@ -29,7 +29,7 @@ export default function LeftSidebar() {
         <p>WordPress/php/HTML/CSS/Xserver</p>
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://0gravity0.com/xs-wp-company01/"
@@ -41,7 +41,7 @@ export default function LeftSidebar() {
         <p>WordPress/php/HTML/CSS/Xserver</p>
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://njs-sample-company01.0gravity0.com/"
@@ -53,7 +53,7 @@ export default function LeftSidebar() {
         <p>Next.js/React/TypeScript/tailwind/AWS</p>
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://whiteboard.aislaboratory.com/"
@@ -65,7 +65,7 @@ export default function LeftSidebar() {
         <p>Next.js/React/TypeScript/tailwind/AWS</p>
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://videolibrary.0gravity0.com/"
@@ -77,7 +77,7 @@ export default function LeftSidebar() {
         <p>Laravel/PHP+MySQL/Xserver</p>
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a
           className="text-2xl hover:text-indigo-300"
           href="https://kabuboard2.0gravity0.com/"
@@ -89,7 +89,7 @@ export default function LeftSidebar() {
         <p>Laravel/PHP+MySQL/Xserver</p>
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://resume-0gravity.an.r.appspot.com/"
@@ -101,7 +101,7 @@ export default function LeftSidebar() {
         <p>Vue.js/JavaScript+Flask/python+GCP(GAE+Datastore)</p>
       </h1>
 
-      <h1 className="text-center border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://tiny-code.0gravity0.com/"

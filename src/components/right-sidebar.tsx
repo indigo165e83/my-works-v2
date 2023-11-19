@@ -3,20 +3,20 @@ import Image from 'next/image';
 export default function RightSidebar() {
   return (
     <div className="flex flex-col">
-      <h1 className="text-2xl text-center bg-indigo-600 text-white p-2">
+      <h1 className="text-2xl text-center bg-[#165e83] text-white p-2">
         プロフィール
       </h1>
-      <h1 className="border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="border-2 border-[#165e83]/30 p-3 my-2">
         <p>モダンWebアプリ開発と良いテストに興味があります。</p>
         <p>QAエンジニア：5割、フロントエンド：3割、バックエンド開発：2割くらいの人です。</p>
         <p>組み込み系からWeb系へ移行しました。</p>
         <p>趣味はピアノ。キーを叩くことが好き。ショパンとかモーツァルトとかクラシックが好きです。</p>
       </h1>
 
-      <h1 className="text-2xl text-center bg-indigo-600 text-white p-2">
+      <h1 className="text-2xl text-center bg-[#165e83] text-white p-2">
         スキル
       </h1>
-      <h1 className="border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="border-2 border-[#165e83]/30 p-3 my-2">
         <p className="text-xl">【開発言語】</p>
         <p>★★★：TypeScript/JavaScript/Next.js/React、HTML/CSS</p>
         <p>★★：Laravel/php</p>
@@ -29,10 +29,10 @@ export default function RightSidebar() {
         <p>Xserver、AWS、GCP、Firebaseをいろいろ試しています。</p>
       </h1>
 
-      <h1 className="text-2xl text-center bg-indigo-600 text-white p-2">
+      <h1 className="text-2xl text-center bg-[#165e83] text-white p-2">
         Get in Touch
       </h1>
-      <h1 className="border-2 border-indigo-500/30 p-3 my-2">
+      <h1 className="border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
           href="https://zenn.dev/aibiz20sasaki"
