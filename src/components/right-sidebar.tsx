@@ -70,7 +70,7 @@ export default function RightSidebar() {
           />
           <a
             className="text-2xl hover:text-indigo-300"
-            href="https://twitter.com/indigo165e833"
+            href="https://twitter.com/indigo__165e83"
             target="_blank" rel="noopener noreferrer"
           >
             X (twitter)
