@@ -56,7 +56,7 @@ export default function LeftSidebar() {
       <h1 className="text-center border-2 border-[#165e83]/30 p-3 my-2">
         <a 
           className="text-2xl hover:text-indigo-300"
-          href="https://whiteboard.aislaboratory.com/"
+          href="https://whiteboard.indigo165e83.com/"
           target="_blank" rel="noopener noreferrer"
         >
           Whiteboard
