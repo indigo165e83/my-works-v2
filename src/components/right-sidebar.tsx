@@ -78,7 +78,6 @@ export default function RightSidebar() {
         </div>
         <p>X(twitter)でつぶやき。お気軽にフォローください。</p>
 
-        {/*
         <div className="flex flex-row">
           <Image 
             src="/icons/youtube.svg"
@@ -89,14 +88,13 @@ export default function RightSidebar() {
           />
           <a 
             className="text-2xl hover:text-indigo-300"
-            href="https://www.youtube.com/@aibizsasaki/featured"
+            href="https://www.youtube.com/@indigo165e83"
             target="_blank" rel="noopener noreferrer"
           >
             YouTube
           </a>
         </div>
         <p>youtubeの動画</p>
-        */}
 
       </h1>
 
